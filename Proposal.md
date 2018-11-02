@@ -1,3 +1,25 @@
+PIVOT
+
+Proposal 1 v2
+
+Prison Tinder. Somehow, someway, serial killers get enough groupies to make aging rockstars jealous. But what about those in prison with less than a life sentence?? Not everyone... ok, that's enough of that. You can thank my stupid ass friend (and rumblr) for that idea (just kidding, she's great, and very smart, rumblr sucks, but maybe it would help with aggression in society?? Think there's gyms for that though).
+
+Proposal 2 v2
+
+Beer Study. Every time someone is helped with a moderate, or harder, programming, or just life, problem, they owe that person a beer, assuming all parties agree to the beerness. Instructors are a magnitude of order higher (to reflect their relative knowledge, a magnitude of order of a magnitude of order might be more realistic, but would never get you beer), and need to help a student 10 times, before receiving a "beer owed" tally. Every 3, or so, beer tallies could have the option of being exchanged for a decent cocktail, glass of wine, or whisk(e)y. It would be redeemed at the end of the Q4, and could be wiped clean with the performance of one karaoke song, to be chosen by the person they owe beer to. So, one song per unique person they owe beer to.
+
+This would help people who like beer, and also like to help others. It may also motivate people to help others, for the beer. May also be a fun tool that alleviates working together, and acts as a talking point you could always fall back on.
+
+Users would be people in g106, maybe g103, maybe everyone who likes beer/drinks, I don't know.
+
+I would be using HTML, CSS, and Javascript. Maybe Mocha, Chai, and a database. Computer(s), internet.
+
+This would work best as an app, or at least something that worked very well on mobile internet. Would work best with a database, which I should be able to do. Was talking to a friend who said it wasn't too hard/they'd show me. An alternative would be letting users write code to some specific fields. By that, I mean they could enter name, who owes them beer, how much, etc, and my code would alter the entire page with that information. This would obviously rely on the honor policy of users... Maybe I could allow something to be added, but not removed, or altered. I could write something to group the same names (first and last) together, so beers owed would be organized, and readable. I could require a secret password for admittance to the site.
+
+MVP would be my mother. She worked really hard to raise me, and I wasn't always the easiest... Oh. What? Minimum Viable Product? Oh, that's different. That would be a webpage that kept track of what beers were owed to whom, along with a clear explanation of the concept. Think that would be it...
+
+Anthony and myself came up with a similar idea to this around week 1, so if he wants to use this idea for his project, he can have at it. Talking to him though, it seems like he wasn't going to.
+
 Proposal 1
 
 I aim to bring the mobile experience, to desktop. I would evolutionize the desktop itself, while at the same time, forcing mobile to take a step back. The site would be hosted at non-mobileDesktopDeployingMobileTechnology.com (no w's needed), and feature a multitude of apps.
